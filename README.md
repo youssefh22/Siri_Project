@@ -1,4 +1,4 @@
-# Siri_Project
+# Voice Assistant Python Program
 
 This program is a simple voice assistant program that uses the speech_recognition, 
 pyttsx3, pywhatkit, datetime, wikipedia, and pyjokes libraries to perform various tasks. 
